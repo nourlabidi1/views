@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.root{
+    
+    
+    -fx-background-image : url(./congratulations-graduation-illustration-graphic-free-vector.png);
+    -fx-background-size :100% 100%;
+    
+}
